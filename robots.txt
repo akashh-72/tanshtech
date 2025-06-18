@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://tanshtech.com/sitemap.xml
+Sitemap: https://akashh-72.github.io/tanshtech/sitemap.xml
 
 # Disallow admin and private directories
 Disallow: /admin/
