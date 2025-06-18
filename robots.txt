@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanshtech.com/sitemap.xml
+
+# Disallow admin and private directories
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /cgi-bin/
+
+# Allow all other directories
+Allow: /img/
+Allow: /css/
+Allow: /js/
+Allow: /lib/ 
